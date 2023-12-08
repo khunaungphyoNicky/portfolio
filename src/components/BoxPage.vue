@@ -5,7 +5,7 @@
                     <img class=" rounded-xl w-full" src="https://th.bing.com/th/id/OIP.JLXCewrMHK5v43dcWsBDWAHaEX?rs=1&pid=ImgDetMain" alt="">
                 </div>
                 <div class="info w-[40%] text-center">
-                    <h1 class=" font-bold text-[17px]">CAR RENTAL <span class=" font-semibold text-base">(FEBRUARY 2023)</span> 🚗</h1>
+                    <h1 class=" font-bold text-[17px] opacity-80">CAR RENTAL <span class=" font-bold text-sm opacity-80">(FEBRUARY 2023)</span> 🚗</h1>
                     <p class=" font-normal text-[17px] opacity-80 mt-4">A car rental website is an online platform that allows users to rent cars for personal or business
                         use. The website provides an interface for searching, comparing, and reserving cars.</p>
                     <div class="language flex justify-center gap-3 my-5">
@@ -30,7 +30,7 @@
                     <img class=" rounded-xl w-full" src="https://th.bing.com/th/id/OIP.JLXCewrMHK5v43dcWsBDWAHaEX?rs=1&pid=ImgDetMain" alt="">
                 </div>
                 <div class="info w-[40%] text-center">
-                    <h1 class=" font-bold text-[17px]">CAR RENTAL <span class=" font-semibold text-base">(FEBRUARY 2023)</span> 🚗</h1>
+                    <h1 class=" font-bold text-[17px] opacity-80">CAR RENTAL <span class=" font-bold text-sm opacity-80">(FEBRUARY 2023)</span> 🚗</h1>
                     <p class=" font-normal text-[17px] opacity-80 mt-4">A car rental website is an online platform that allows users to rent cars for personal or business
                         use. The website provides an interface for searching, comparing, and reserving cars.</p>
                     <div class="language flex justify-center gap-3 my-5">
@@ -55,7 +55,7 @@
                     <img class=" rounded-xl w-full" src="https://th.bing.com/th/id/OIP.JLXCewrMHK5v43dcWsBDWAHaEX?rs=1&pid=ImgDetMain" alt="">
                 </div>
                 <div class="info w-[40%] text-center">
-                    <h1 class=" font-bold text-[17px]">CAR RENTAL <span class=" font-semibold text-base">(FEBRUARY 2023)</span> 🚗</h1>
+                    <h1 class=" font-bold text-[17px] opacity-80">CAR RENTAL <span class=" font-bold text-sm opacity-80">(FEBRUARY 2023)</span> 🚗</h1>
                     <p class=" font-normal text-[17px] opacity-80 mt-4">A car rental website is an online platform that allows users to rent cars for personal or business
                         use. The website provides an interface for searching, comparing, and reserving cars.</p>
                     <div class="language flex justify-center gap-3 my-5">
@@ -80,7 +80,7 @@
                     <img class=" rounded-xl w-full" src="https://th.bing.com/th/id/OIP.JLXCewrMHK5v43dcWsBDWAHaEX?rs=1&pid=ImgDetMain" alt="">
                 </div>
                 <div class="info w-[40%] text-center">
-                    <h1 class=" font-bold text-[17px]">CAR RENTAL <span class=" font-semibold text-base">(FEBRUARY 2023)</span> 🚗</h1>
+                    <h1 class=" font-bold text-[17px] opacity-80">CAR RENTAL <span class=" font-bold text-sm opacity-80">(FEBRUARY 2023)</span> 🚗</h1>
                     <p class=" font-normal text-[17px] opacity-80 mt-4">A car rental website is an online platform that allows users to rent cars for personal or business
                         use. The website provides an interface for searching, comparing, and reserving cars.</p>
                     <div class="language flex justify-center gap-3 my-5">

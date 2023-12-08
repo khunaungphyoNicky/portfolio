@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <div class="max-w-[950px] mx-auto h-screen flex items-center justify-center gap-16">
+    <div class="h-screen flex items-center justify-center bg-white">
+        <div class="max-w-[950px] mx-auto flex gap-14">
             <div class="image w-[50%] relative">
                 <img class=" rounded-xl h-[350px] w-[90%]"
                     src="https://www.stefantopalovic.com/static/media/about-img.62b47e7f183d4b4e9feb.webp" alt="">
@@ -11,7 +11,7 @@
             </div>
             <div class="details w-[50%]">
                 <h1 class=" text-blue-600 font-bold text-lg">ABOUT ME</h1>
-                <h1 class=" font-bold text-2xl mt-2">A dedicated Front-end Developer
+                <h1 class=" font-bold text-[27px] mt-2 opacity-80">A dedicated Front-end Developer
                     based in Belgrade, Serbia 📍</h1>
                 <p class=" font-normal text-[17px] opacity-80 mt-4">As a Junior Front-End Developer, I possess an impressive
                     arsenal of skills in HTML, CSS, JavaScript,

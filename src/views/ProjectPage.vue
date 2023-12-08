@@ -1,8 +1,8 @@
 <template>
     <div>
-        <div class="max-w-[950px] mx-auto mt-16 my-32">
+        <div class="max-w-[950px] mx-auto my-32">
             <h1 class=" uppercase font-bold text-lg text-blue-600">portfolio</h1>
-            <h1 class=" font-bold text-2xl mt-2">Each project is a unique piece of development 🧩</h1>
+            <h1 class=" font-bold text-[27px] opacity-80 mt-2">Each project is a unique piece of development 🧩</h1>
             <BoxPage/>
         </div>
     </div>

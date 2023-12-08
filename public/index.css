@@ -12,6 +12,10 @@ html::-webkit-scrollbar-thumb{
     border-radius: 1rem;
 }
 
+*{
+    scroll-behavior: smooth;
+}
+
 .hero_image{
     box-shadow: inset 0 0 0 9px rgb(255 255 255 / 30%);
     order: 1;
