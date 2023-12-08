@@ -13,16 +13,18 @@
     </nav>
     <HomePage/>
     <AboutPage/>
+    <ProjectPage/>
   </div>
 </template>
 
 <script>
 import HomePage from "./views/HomePage.vue";
 import AboutPage from "./views/AboutPage.vue";
+import ProjectPage from "./views/ProjectPage.vue";
     export default {
         name: 'App',
         components: {
-          HomePage,AboutPage
+          HomePage,AboutPage,ProjectPage
         },
     }
 </script>
