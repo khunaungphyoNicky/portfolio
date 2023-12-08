@@ -16,7 +16,7 @@
                 </div>
                 <div class="image ml-36">
                     <div class=" w-[350px] h-[350px]">
-                        <img class=" rounded-full hero_image" src="https://avatars.githubusercontent.com/u/139064963?v=4" alt="">
+                        <img class=" rounded-full hero_image " src="https://avatars.githubusercontent.com/u/139064963?v=4" alt="">
                     </div>
                 </div>
             </div>

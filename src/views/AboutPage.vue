@@ -5,7 +5,8 @@
                 <img class=" rounded-xl h-[350px] w-[90%]"
                     src="https://www.stefantopalovic.com/static/media/about-img.62b47e7f183d4b4e9feb.webp" alt="">
                 <div class="work absolute bottom-[-28px] right-0 p-16 rounded-full bg-white">
-                    <img class=" w-12" src="https://www.stefantopalovic.com/static/media/working-emoji.c5325f52b5be329995a5.png" alt="">
+                    <img class=" w-12"
+                        src="https://www.stefantopalovic.com/static/media/working-emoji.c5325f52b5be329995a5.png" alt="">
                 </div>
             </div>
             <div class="details w-[50%]">
@@ -25,6 +26,6 @@
 
 <script>
 export default {
-    name: 'AboutPage'
+    name: 'AboutPage',
 }
 </script>

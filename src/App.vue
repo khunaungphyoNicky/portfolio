@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class=" bg-white shadow-md shadow-gray-200 py-6 px-12 text-black flex justify-between fixed top-0 w-full z-10 border border-b">
+    <nav class=" bg-white shadow-md shadow-gray-200 py-6 px-12 text-black flex justify-between fixed top-0 w-full z-10">
       <div class="logo">
         <h1 class=" font-bold text-[22px] opacity-90 cursor-pointer">Aungphyo</h1>
       </div>
