@@ -10,13 +10,13 @@
                         in Taunggyi, Myanmar.
                     </h1>
                     <div class="social flex gap-4 mt-7">
-                        <i class="fa-brands fa-github text-3xl opacity-75"></i>
-                        <i class="fa-brands fa-linkedin text-3xl opacity-75"></i>
+                        <a href=""><i class="fa-brands fa-github text-3xl opacity-75 hover:text-sky-500 duration-200 ease-in-out"></i></a>
+                        <a href=""><i class="fa-brands fa-linkedin text-3xl opacity-75 hover:text-sky-500 duration-200 ease-in-out"></i></a>
                     </div>
                 </div>
                 <div class="image ml-36">
                     <div class=" w-[350px] h-[350px]">
-                        <img class=" rounded-full" src="https://avatars.githubusercontent.com/u/139064963?v=4" alt="">
+                        <img class=" rounded-full hero_image" src="https://avatars.githubusercontent.com/u/139064963?v=4" alt="">
                     </div>
                 </div>
             </div>

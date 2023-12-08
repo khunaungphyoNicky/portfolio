@@ -2,25 +2,27 @@
   <div>
     <nav class=" bg-white shadow-md shadow-gray-200 py-6 px-12 text-black flex justify-between fixed top-0 w-full z-10 border border-b">
       <div class="logo">
-        <h1 class=" font-bold text-[22px] opacity-90">Aungphyo</h1>
+        <h1 class=" font-bold text-[22px] opacity-90 cursor-pointer">Aungphyo</h1>
       </div>
       <div class="menu flex gap-6 font-bold text-[18px] opacity-80">
-        <a href="">Home</a>
-        <a href="">About</a>
-        <a href="">Project</a>
-        <a href="">Contact</a>
+        <a class="hover:text-sky-500 duration-200 ease-in-out" href="">Home</a>
+        <a class="hover:text-sky-500 duration-200 ease-in-out" href="">About</a>
+        <a class="hover:text-sky-500 duration-200 ease-in-out" href="">Project</a>
+        <a class="hover:text-sky-500 duration-200 ease-in-out" href="">Contact</a>
       </div>
     </nav>
     <HomePage/>
+    <AboutPage/>
   </div>
 </template>
 
 <script>
 import HomePage from "./views/HomePage.vue";
+import AboutPage from "./views/AboutPage.vue";
     export default {
         name: 'App',
         components: {
-          HomePage,
+          HomePage,AboutPage
         },
     }
 </script>
