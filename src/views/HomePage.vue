@@ -7,7 +7,7 @@
                     <img class=" w-16 inline mb-8 ml-2"
                         src="https://www.stefantopalovic.com/static/media/waving.1bae5fcfb51082b5c2b4.png" alt="">
                     <h1 class=" text-lg font-normal opacity-75">Hi, I'm Aung Phyo. A passionate full stack developer based
-                        in Taunggyi, Myanmar.
+                        in Taunggyi, Myanmar. 📍
                     </h1>
                     <div class="social flex gap-4 mt-7">
                         <a href=""><i class="fa-brands fa-github text-3xl opacity-75 hover:text-sky-500 duration-200 ease-in-out"></i></a>
