@@ -33,3 +33,174 @@ html::-webkit-scrollbar-thumb{
         border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
     }
 }
+@media screen and (max-width: 950px) {
+    .menu {
+        display: none;
+    }
+    .bar {
+        display: block;
+    }
+    .work {
+      display: none;
+    }
+    .home {
+        flex-direction: column-reverse;
+        gap: 15px;
+    }
+    .home-page {
+        height: 130vh;
+    }
+    .intro {
+        text-align: center;
+    }
+    .social,
+    .home-image {
+        justify-content: center;
+    }
+    .about-page {
+      height: 130vh;
+    }
+    .about {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        
+    }
+    .skills {
+        flex-direction: column;
+        gap: 7px;
+    }
+    .tech {
+        display: none;
+    }
+    .tech-title {
+        padding-bottom: 5px;
+        border-bottom: 2px solid rgb(88, 88, 88);
+    }
+    .box-parent {
+        display: flex;
+        justify-content: center;
+    }
+    .box {
+        flex-direction: column;
+        width: 570px;
+    }
+    .box-title {
+        margin-left: 4rem;
+    }
+    .box .image {
+        width: 100%;
+        height: auto;
+    }
+    .box .info {
+        width: 300px;
+    }
+    .contact {
+        margin-left: 4rem;
+    }
+    .about-details {
+        width: 410px;
+    }
+}
+
+@media screen and (max-width: 677px) {
+    .box {
+        width: 470px;
+    }
+    .contact-info {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 565px) {
+    .skills-box {
+        display: grid;
+        grid-template-columns: auto auto;
+        margin-top: 1.5rem;
+    }
+    .html,
+    .php {
+        justify-content: space-between;
+    }
+    .home-page {
+        height: 150vh;
+      }
+    .about-page {
+        height: 130vh;
+    }
+    .box-title {
+        max-width: 470px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .right {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    .rights {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 515px) {
+    .box-title,
+    .box {
+        max-width: 400px;
+    }
+    .home-page {
+        padding: 1rem;
+    }
+    .home-img{
+        width: 300px;
+        height: 300px;
+    }
+    .hero-title {
+        font-size: 3rem;
+    }
+    .about-page {
+        height: 110vh;
+    }
+    .home-page {
+        height: 130vh;
+      }
+    .about-image{
+        width: 340px;
+        height: 280px;
+    }
+    .about-details {
+        width: 340px;
+    }
+    .contact {
+        text-align: center;
+        margin-left: 0;
+    }
+    .location {
+        flex-direction: column;
+    }
+    .contact-page {
+        height: 70vh;
+        justify-content: center;
+    }
+    .contact-main {
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 434px) {
+    .box,
+    .box-title {
+        width: 350px;
+    }
+    .box-title {
+        text-align: center;
+    }
+}
+@media screen and (max-width: 400px) {
+    .home-page {
+        height: 137vh;
+    }
+    .hero-title {
+        font-size: 2.5rem;
+    }
+}
