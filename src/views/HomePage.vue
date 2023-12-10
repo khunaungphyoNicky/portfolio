@@ -13,9 +13,9 @@
                         </h1>
                         <div class="social flex gap-4 mt-7 social">
                             <a href=""><i
-                                    class="fa-brands fa-github text-3xl opacity-75 hover:text-blue-600 duration-200 ease-in-out"></i></a>
+                                    class="fa-brands fa-github text-3xl opacity-75 hover:text-[#147EFB] duration-200 ease-in-out"></i></a>
                             <a href=""><i
-                                    class="fa-brands fa-linkedin text-3xl opacity-75 hover:text-blue-600 duration-200 ease-in-out"></i></a>
+                                    class="fa-brands fa-linkedin text-3xl opacity-75 hover:text-[#147EFB] duration-200 ease-in-out"></i></a>
                         </div>
                     </div>
                     <!-- <div class="home-image flex"> -->

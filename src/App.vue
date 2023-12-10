@@ -5,10 +5,10 @@
         <a href="#home"><h1 class=" font-bold text-[22px] opacity-80 cursor-pointer">Aungphyo</h1></a>
       </div>
       <div class="menu flex gap-6 font-bold text-[18px] opacity-80">
-        <a class="hover:text-blue-600 duration-200 ease-in-out" href="#home">Home</a>
-        <a class="hover:text-blue-600 duration-200 ease-in-out" href="#about">About</a>
-        <a class="hover:text-blue-600 duration-200 ease-in-out" href="#project">Project</a>
-        <a class="hover:text-blue-600 duration-200 ease-in-out" href="#contact">Contact</a>
+        <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#home">Home</a>
+        <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#about">About</a>
+        <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#project">Project</a>
+        <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#contact">Contact</a>
       </div>
       <div class=" bar hidden font-bold text-[22px] opacity-80">
         <i class="fa-solid fa-bars"></i>

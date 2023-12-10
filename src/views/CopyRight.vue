@@ -7,8 +7,8 @@
                 </div>
                 <div class="social">
                     <div class="social flex gap-6">
-                        <a href=""><i class="fa-brands fa-github text-white text-3xl hover:text-blue-600 duration-200 ease-in-out"></i></a>
-                        <a href=""><i class="fa-brands fa-linkedin text-white text-3xl hover:text-blue-600 duration-200 ease-in-out"></i></a>
+                        <a href=""><i class="fa-brands fa-github text-white text-3xl hover:text-[#147EFB] duration-200 ease-in-out"></i></a>
+                        <a href=""><i class="fa-brands fa-linkedin text-white text-3xl hover:text-[#147EFB] duration-200 ease-in-out"></i></a>
                     </div>
                 </div>
             </div>

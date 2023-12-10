@@ -15,11 +15,11 @@
                         <div class=" py-3 px-4 bg-white font-bold rounded-md shadow-md shadow-slate-200">Vue JS</div>
                     </div>
                     <div class="demo flex justify-center gap-12 mt-3">
-                        <div class="flex items-center gap-1 hover:text-blue-600 duration-200 ease-in-out opacity-80 cursor-pointer"> 
+                        <div class="flex items-center gap-1 hover:text-[#147EFB] duration-200 ease-in-out opacity-80 cursor-pointer"> 
                             <h1 class=" font-semibold text-[17px]">Code</h1> 
                             <i class="fa-brands fa-github text-2xl"></i>
                         </div>
-                        <div class="flex items-center gap-1 hover:text-blue-600 duration-200 ease-in-out opacity-80 cursor-pointer"> 
+                        <div class="flex items-center gap-1 hover:text-[#147EFB] duration-200 ease-in-out opacity-80 cursor-pointer"> 
                             <h1 class=" font-semibold text-[17px]">Live Demo</h1> 
                             <i class="fa-solid fa-arrow-up-right-from-square text-xl"></i>
                         </div>
@@ -40,11 +40,11 @@
                         <div class=" py-3 px-4 bg-white font-bold rounded-md shadow-md shadow-slate-200">Vue JS</div>
                     </div>
                     <div class="demo flex justify-center gap-12 mt-3">
-                        <div class="flex items-center gap-1 hover:text-blue-600 duration-200 ease-in-out opacity-80 cursor-pointer"> 
+                        <div class="flex items-center gap-1 hover:text-[#147EFB] duration-200 ease-in-out opacity-80 cursor-pointer"> 
                             <h1 class=" font-semibold text-[17px]">Code</h1> 
                             <i class="fa-brands fa-github text-2xl"></i>
                         </div>
-                        <div class="flex items-center gap-1 hover:text-blue-600 duration-200 ease-in-out opacity-80 cursor-pointer"> 
+                        <div class="flex items-center gap-1 hover:text-[#147EFB] duration-200 ease-in-out opacity-80 cursor-pointer"> 
                             <h1 class=" font-semibold text-[17px]">Live Demo</h1> 
                             <i class="fa-solid fa-arrow-up-right-from-square text-xl"></i>
                         </div>
@@ -65,11 +65,11 @@
                         <div class=" py-3 px-4 bg-white font-bold rounded-md shadow-md shadow-slate-200">Vue JS</div>
                     </div>
                     <div class="demo flex justify-center gap-12 mt-3">
-                        <div class="flex items-center gap-1 hover:text-blue-600 duration-200 ease-in-out opacity-80 cursor-pointer"> 
+                        <div class="flex items-center gap-1 hover:text-[#147EFB] duration-200 ease-in-out opacity-80 cursor-pointer"> 
                             <h1 class=" font-semibold text-[17px]">Code</h1> 
                             <i class="fa-brands fa-github text-2xl"></i>
                         </div>
-                        <div class="flex items-center gap-1 hover:text-blue-600 duration-200 ease-in-out opacity-80 cursor-pointer"> 
+                        <div class="flex items-center gap-1 hover:text-[#147EFB] duration-200 ease-in-out opacity-80 cursor-pointer"> 
                             <h1 class=" font-semibold text-[17px]">Live Demo</h1> 
                             <i class="fa-solid fa-arrow-up-right-from-square text-xl"></i>
                         </div>
@@ -90,11 +90,11 @@
                         <div class=" py-3 px-4 bg-white font-bold rounded-md shadow-md shadow-slate-200">Vue JS</div>
                     </div>
                     <div class="demo flex justify-center gap-12 mt-3">
-                        <div class="flex items-center gap-1 hover:text-blue-600 duration-200 ease-in-out opacity-80 cursor-pointer"> 
+                        <div class="flex items-center gap-1 hover:text-[#147EFB] duration-200 ease-in-out opacity-80 cursor-pointer"> 
                             <h1 class=" font-semibold text-[17px]">Code</h1> 
                             <i class="fa-brands fa-github text-2xl"></i>
                         </div>
-                        <div class="flex items-center gap-1 hover:text-blue-600 duration-200 ease-in-out opacity-80 cursor-pointer"> 
+                        <div class="flex items-center gap-1 hover:text-[#147EFB] duration-200 ease-in-out opacity-80 cursor-pointer"> 
                             <h1 class=" font-semibold text-[17px]">Live Demo</h1> 
                             <i class="fa-solid fa-arrow-up-right-from-square text-xl"></i>
                         </div>

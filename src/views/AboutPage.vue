@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="about-details w-[490px] min-h-[356px]">
-                <h1 class=" text-blue-600 font-bold text-lg">ABOUT ME</h1>
+                <h1 class=" text-[#147EFB] font-bold text-lg">ABOUT ME</h1>
                 <h1 class=" font-bold text-[27px] mt-2 opacity-80">A dedicated Front-end Developer
                     based in Belgrade, Serbia 📍</h1>
                 <p class=" font-normal text-[17px] opacity-80 mt-4">As a Junior Front-End Developer, I possess an impressive
