@@ -1,6 +1,6 @@
 <template>
   <div class=" scroll-smooth bg-slate-100">
-    <!-- <div v-if="status" class="w-full h-screen bg-white flex flex-col gap-10 justify-center items-center z-20 fixed font-medium text-2xl duration-300 ease">
+    <div v-if="status" class="w-full h-screen bg-white flex flex-col gap-10 justify-center items-center z-20 fixed font-medium text-2xl duration-300 ease">
       <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#home" @click="close()">Home</a>
         <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#about" @click="close()">About</a>
         <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#project" @click="close()">Project</a>
@@ -8,8 +8,8 @@
         <div class=" font-normal text-[29px] absolute top-6 right-12 close" @click="close()">
         <i class="fa-solid fa-xmark"></i>
       </div>
-    </div> -->
-    <nav class=" bg-white shadow-md shadow-gray-200 items-center nav-bar py-6 px-12 text-black flex justify-between fixed top-0 w-full z-10">
+    </div>
+    <nav class=" bg-white  items-center nav-bar py-6 px-12 text-black flex justify-between fixed top-0 w-full z-10">
       <div class="logo">
         <a href="#home"><h1 class=" font-bold text-[22px] opacity-80 cursor-pointer">Aungphyo</h1></a>
       </div>
