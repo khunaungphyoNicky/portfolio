@@ -204,3 +204,15 @@ html::-webkit-scrollbar-thumb{
         font-size: 2.5rem;
     }
 }
+
+@media screen and (max-width: 376px) {
+    .home-page {
+        height: 167vh;
+    }
+    .about-page {
+        height: 150vh;
+    }
+    .contact-page {
+        height: 90vh;
+    }
+}
