@@ -9,7 +9,7 @@
         <i class="fa-solid fa-xmark"></i>
       </div>
     </div>
-    <nav class=" bg-white shadow-md shadow-gray-200 items-center nav-bar py-6 px-12 text-black flex justify-between fixed top-0 w-full z-10">
+    <nav class=" bg-white shadow-md shadow-gray-200 items-center nav-bar h-[80px] py-6 px-12 text-black flex justify-between fixed top-0 w-full z-10">
       <div class="logo">
         <a href="#home"><h1 class=" font-bold text-[22px] opacity-80 cursor-pointer">Aungphyo</h1></a>
       </div>
