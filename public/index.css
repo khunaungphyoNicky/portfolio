@@ -123,10 +123,10 @@ html::-webkit-scrollbar-thumb{
         justify-content: space-between;
     }
     .home-page {
-        height: 150vh;
+        height: 136vh;
       }
     .about-page {
-        height: 130vh;
+        height: 125vh;
     }
     .box-title {
         max-width: 470px;
@@ -161,7 +161,7 @@ html::-webkit-scrollbar-thumb{
         height: 110vh;
     }
     .home-page {
-        height: 130vh;
+        height: 120vh;
       }
     .about-image{
         width: 340px;
@@ -192,6 +192,9 @@ html::-webkit-scrollbar-thumb{
     .close {
         right: 1.5rem;
     }
+    .wave {
+        width: 3rem;
+    }
 }
 
 @media screen and (max-width: 434px) {
@@ -205,21 +208,21 @@ html::-webkit-scrollbar-thumb{
 }
 @media screen and (max-width: 400px) {
     .home-page {
-        height: 137vh;
-    }
+        height: 125vh;
+      }
     .hero-title {
         font-size: 2.5rem;
     }
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-height: 668px) {
     .home-page {
-        height: 167vh;
+        height: 165vh;
     }
     .about-page {
-        height: 150vh;
+        height: 160vh;
     }
     .contact-page {
-        height: 90vh;
+        height: 100vh;
     }
 }
