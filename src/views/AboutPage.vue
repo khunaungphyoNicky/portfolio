@@ -1,6 +1,6 @@
 <template>
     <div class="h-screen flex items-center justify-center bg-white about-page">
-        <div class="max-w-[950px] flex gap-14 about">
+        <div class="max-w-[950px] flex gap-14 about w-full">
             <div class="about-image w-[410px] h-[350px] relative">
                 <img class=" rounded-xl w-full h-full"
                     src="https://www.stefantopalovic.com/static/media/about-img.62b47e7f183d4b4e9feb.webp" alt="">

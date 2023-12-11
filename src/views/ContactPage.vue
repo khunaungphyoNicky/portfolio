@@ -1,5 +1,5 @@
 <template>
-    <div class="h-[50vh] flex items-center bg-white contact-page">
+    <div class="py-[11rem] flex items-center bg-white contact-page">
         <div class="max-w-[950px] flex mx-auto w-full contact-main">
             <div class="contact">
                 <div class="contact-title">
