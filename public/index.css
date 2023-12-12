@@ -214,9 +214,9 @@ html::-webkit-scrollbar-thumb{
     .box-title {
         text-align: center;
     }
-    .hero-content {
+    /* .hero-content {
         padding: 0 1rem;
-    }
+    } */
 }
 @media screen and (max-width: 400px) {
     .hero-title {
