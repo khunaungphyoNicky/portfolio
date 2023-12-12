@@ -34,6 +34,11 @@ html::-webkit-scrollbar-thumb{
         border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
     }
 }
+@media screen and (max-width: 1600px){
+    .container {
+        margin-top: 0;
+    }
+}
 @media screen and (max-width: 950px) {
     .menu {
         display: none;
@@ -46,7 +51,11 @@ html::-webkit-scrollbar-thumb{
     }
     .home {
         flex-direction: column-reverse;
-        gap: 15px;
+        gap: 3rem;
+        height: auto;
+    }
+    .home-skills {
+        left: auto;
     }
     .home-page {
         height: auto;
@@ -54,6 +63,7 @@ html::-webkit-scrollbar-thumb{
     }
     .intro {
         text-align: center;
+        margin-bottom: 10rem;
     }
     .social,
     .home-image {
@@ -119,13 +129,18 @@ html::-webkit-scrollbar-thumb{
         flex-direction: column;
     }
 }
-
-@media screen and (max-width: 565px) {
+@media screen and (max-width: 630px){
     .skills-box {
         display: grid;
         grid-template-columns: auto auto;
         margin-top: 1.5rem;
+        padding: 0 1rem;
     }
+    .intro {
+        margin-bottom: 18rem;
+    }
+}
+@media screen and (max-width: 565px) {
     .html,
     .php {
         justify-content: space-between;

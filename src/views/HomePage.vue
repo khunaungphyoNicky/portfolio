@@ -1,13 +1,14 @@
 <template>
     <div>
-        <div class=" h-screen flex justify-center items-center home-page">
-            <div>
-                <div class="max-w-[950px] flex gap-36 items-center w-full home">
-                    <div class=" max-w-[456px] mx-auto my-3 intro">
+        <div class=" h-screen w-full flex flex-col home-page">
+            <div class="container mx-auto max-w-[1030px] px-[40px] mt-[60px]">
+                <div class="max-w-[950px] relative flex gap-[6.2rem] justify-center items-center w-full home h-[650px]">
+                    <div class=" max-w-[500px] intro">
                         <h1 class=" font-bold text-6xl inline opacity-80 hero-title">Full-Stack Web Developer</h1>
                         <img class=" w-16 inline mb-8 ml-2 wave"
                             src="https://www.stefantopalovic.com/static/media/waving.1bae5fcfb51082b5c2b4.png" alt="">
-                        <h1 class=" text-lg font-normal opacity-75 hero-content">Hi, I'm Aung Phyo. A passionate full stack developer
+                        <h1 class=" text-lg font-normal opacity-75 hero-content">Hi, I'm Aung Phyo. A passionate full stack
+                            developer
                             based
                             in Taunggyi, Myanmar. 📍
                         </h1>
@@ -18,14 +19,13 @@
                                     class="fa-brands fa-linkedin text-3xl opacity-75 hover:text-[#147EFB] duration-200 ease-in-out"></i></a>
                         </div>
                     </div>
-                    <!-- <div class="home-image flex"> -->
-                        <div class=" w-[350px] h-[350px] home-img">
-                            <img class=" rounded-full hero_image "
-                                src="../assets/hero.jpg" alt="">
-                        </div>
-                    <!-- </div> -->
+                    <div class=" w-[350px] h-[350px] home-img">
+                        <img class=" rounded-full hero_image " src="../assets/hero.jpg" alt="">
+                    </div>
+                    <div class="home-skills absolute bottom-0 left-0">
+                        <SkillPage />
+                    </div>
                 </div>
-                <SkillPage />
             </div>
         </div>
     </div>
