@@ -200,7 +200,7 @@ html::-webkit-scrollbar-thumb{
         text-align: center;
     }
     .hero-content {
-        padding: 0 0.8rem;
+        padding: 0 1rem;
     }
 }
 @media screen and (max-width: 400px) {
