@@ -74,10 +74,6 @@ html::-webkit-scrollbar-thumb{
     .home-image {
         justify-content: center;
     }
-    .about-page {
-      height: auto;
-      padding: 3rem 0;
-    }
     .about {
         flex-direction: column;
         align-items: center;
@@ -120,10 +116,6 @@ html::-webkit-scrollbar-thumb{
         height: auto;
         padding: 8rem 0;
     }
-    .about-details {
-        width: 525px;
-        padding: 0 2rem;
-    }
 }
 
 @media screen and (max-width: 677px) {
@@ -162,6 +154,9 @@ html::-webkit-scrollbar-thumb{
     .rights {
         text-align: center;
     }
+    .about-details {
+        width: 90%;
+    }
 }
 
 @media screen and (max-width: 515px) {
@@ -175,14 +170,6 @@ html::-webkit-scrollbar-thumb{
     }
     .hero-title {
         font-size: 3rem;
-    }
-    .about-image{
-        width: 340px;
-        height: 280px;
-    }
-    .about-details {
-        width: 340px;
-        padding: 0;
     }
     .contact {
         text-align: center;
@@ -210,10 +197,17 @@ html::-webkit-scrollbar-thumb{
     }
 }
 
+@media screen and (max-width: 460px) {
+    .about-image{
+        width: 90%;
+        height: auto;
+    }
+}
+
 @media screen and (max-width: 434px) {
     .box,
     .box-title {
-        width: 350px;
+        width: 90%;
     }
     .box-title {
         text-align: center;
@@ -225,14 +219,6 @@ html::-webkit-scrollbar-thumb{
     }
     .about-content {
         padding: 0 0.5rem;
-    }
-    .about-image{
-        width: 317px;
-        /* height: 280px; */
-    }
-    .box,
-    .box-title {
-        width: 300px;
     }
 }
 

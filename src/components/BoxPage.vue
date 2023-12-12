@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div  class=" flex flex-col items-center">
         <div class="box mt-14 flex justify-center items-center gap-10 p-4 shadow-xl shadow-gray-200 rounded-2xl bg-white">
                 <div class="image w-[60%]">
                     <img class=" rounded-xl w-full" src="https://th.bing.com/th/id/OIP.JLXCewrMHK5v43dcWsBDWAHaEX?rs=1&pid=ImgDetMain" alt="">
