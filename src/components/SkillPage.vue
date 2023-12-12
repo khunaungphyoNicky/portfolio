@@ -17,7 +17,7 @@
                     <i class="fa-brands fa-laravel text-5xl text-red-500"></i>
                 </div>
                 <div class="flex gap-2 items-center cursor-pointer hover:translate-y-[-5px] duration-200 ease-in">
-                    <img class=" w-16" src="https://www.pngrepo.com/download/354431/tailwindcss-icon.png" alt="">
+                    <img class=" w-16" src="../assets/tailwindcss.png" alt="">
                     <i class="fa-brands fa-bootstrap text-5xl text-violet-700"></i>
                 </div>
             </div>

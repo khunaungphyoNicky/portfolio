@@ -21,7 +21,7 @@
                     <!-- <div class="home-image flex"> -->
                         <div class=" w-[350px] h-[350px] home-img">
                             <img class=" rounded-full hero_image "
-                                src="https://avatars.githubusercontent.com/u/139064963?v=4" alt="">
+                                src="../assets/myicon.png" alt="">
                         </div>
                     <!-- </div> -->
                 </div>
