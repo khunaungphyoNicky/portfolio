@@ -7,7 +7,7 @@
                         <h1 class=" font-bold text-6xl inline opacity-80 hero-title">Full-Stack Web Developer</h1>
                         <img class=" w-16 inline mb-8 ml-2 wave"
                             src="https://www.stefantopalovic.com/static/media/waving.1bae5fcfb51082b5c2b4.png" alt="">
-                        <h1 class=" text-lg font-normal opacity-75">Hi, I'm Aung Phyo. A passionate full stack developer
+                        <h1 class=" text-lg font-normal opacity-75 hero-content">Hi, I'm Aung Phyo. A passionate full stack developer
                             based
                             in Taunggyi, Myanmar. 📍
                         </h1>

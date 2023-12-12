@@ -199,10 +199,16 @@ html::-webkit-scrollbar-thumb{
     .box-title {
         text-align: center;
     }
+    .hero-content {
+        padding: 0 0.5rem;
+    }
 }
 @media screen and (max-width: 400px) {
     .hero-title {
         font-size: 2.5rem;
+    }
+    .about-content {
+        padding: 0 0.5rem;
     }
 }
 
