@@ -206,7 +206,8 @@ html::-webkit-scrollbar-thumb{
 
 @media screen and (max-width: 434px) {
     .box,
-    .box-title {
+    .box-title,
+    .contact {
         width: 90%;
     }
     .box-title {
@@ -216,9 +217,6 @@ html::-webkit-scrollbar-thumb{
 @media screen and (max-width: 400px) {
     .hero-title {
         font-size: 2.5rem;
-    }
-    .about-content {
-        padding: 0 0.5rem;
     }
 }
 
