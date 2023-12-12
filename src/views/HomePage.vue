@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class=" h-screen w-full flex flex-col home-page">
-            <div class="container mx-auto max-w-[1030px] px-[40px] mt-[60px]">
+            <div class="container mx-auto max-w-[1030px] px-[40px] mt-[60px] w-full">
                 <div class="max-w-[950px] relative flex gap-[6.2rem] justify-center items-center w-full home h-[650px]">
                     <div class=" max-w-[500px] intro">
                         <h1 class=" font-bold text-6xl inline opacity-80 hero-title">Full-Stack Web Developer</h1>

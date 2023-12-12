@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="  h-[20vh] flex items-center justify-center bg-zinc-800 p-5">
+        <div class="  h-[20vh] w-full flex items-center justify-center bg-zinc-800 p-5">
             <div class="right max-w-[950px] w-full flex justify-between">
                 <div class="rights">
                     <h1 class="font-bold text-lg  text-white">Copyright © 2023. All rights are reserved</h1>

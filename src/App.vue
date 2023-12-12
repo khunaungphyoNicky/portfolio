@@ -17,7 +17,7 @@
           <h1 class=" font-bold text-[22px] opacity-80 cursor-pointer">Aungphyo</h1>
         </a>
       </div>
-      <div class="menu flex gap-6 font-bold text-[18px] opacity-80">
+      <div class="menu flex gap-6 font-bold text-[17.6px] opacity-80">
         <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#home">Home</a>
         <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#about">About</a>
         <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#project">Project</a>
