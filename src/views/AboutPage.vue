@@ -13,7 +13,7 @@
                 <h1 class=" text-[#147EFB] font-bold text-lg">ABOUT ME</h1>
                 <h1 class=" font-bold text-[27px] mt-2 opacity-80">A dedicated Front-end Developer
                     based in Belgrade, Serbia 📍</h1>
-                <p class=" font-normal text-[17px] opacity-80 mt-4 about-content">As a Junior Front-End Developer, I possess an impressive
+                <p class=" font-normal text-[17px] opacity-70 mt-4 about-content">As a Junior Front-End Developer, I possess an impressive
                     arsenal of skills in HTML, CSS, JavaScript,
                     React, Tailwind, and SCSS. I excel in designing and maintaining responsive websites that offer a smooth
                     user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and

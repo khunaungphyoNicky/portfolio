@@ -33,7 +33,7 @@ html::-webkit-scrollbar-thumb{
 }
 .hero-content,
 .about-content,
-.project-content,
+/* .project-content, */
 .contact-box{
     font-family: 'Mulish', sans-serif;
 }

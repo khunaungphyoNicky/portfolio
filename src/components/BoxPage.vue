@@ -6,7 +6,7 @@
                 </div>
                 <div class="info w-[40%] text-center">
                     <h1 class=" font-bold text-[17px] opacity-80">CAR RENTAL <span class=" font-bold text-sm opacity-80">(FEBRUARY 2023)</span> 🚗</h1>
-                        <p class="project-content w-full font-normal text-[17px] opacity-80 mt-4">A car rental website is an online platform that allows users to rent cars for personal or business
+                        <p class="project-content w-full font-normal text-[17px] opacity-70 mt-4">A car rental website is an online platform that allows users to rent cars for personal or business
                         use. The website provides an interface for searching, comparing, and reserving cars.</p>
                     <div class="language flex justify-center gap-3 my-5">
                         <div class=" py-3 px-4 bg-white font-bold rounded-md shadow-md shadow-slate-200">Laravel</div>
