@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500&display=swap');
+
 html::-webkit-scrollbar{
     width: 7px;
     background-color: unset;
@@ -26,7 +29,13 @@ html::-webkit-scrollbar-thumb{
 .logo,
 .menu,
 .mobile-menu {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.hero-content,
+.about-content,
+.project-content,
+.contact-box{
+    font-family: 'Mulish', sans-serif;
 }
 
 @keyframes profile_animate {
