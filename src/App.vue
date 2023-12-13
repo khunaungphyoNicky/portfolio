@@ -6,7 +6,7 @@
       <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#about" @click="close()">About</a>
       <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#project" @click="close()">Project</a>
       <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#contact" @click="close()">Contact</a>
-      <div class=" font-normal text-[29px] absolute top-6 right-12 close" @click="close()">
+      <div class=" font-normal text-[29px] absolute top-6 right-12 close hover:text-[#147EFB] duration-200 ease-in-out" @click="close()">
         <i class="fa-solid fa-xmark"></i>
       </div>
     </div>
@@ -23,7 +23,7 @@
         <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#project">Project</a>
         <a class="hover:text-[#147EFB] duration-200 ease-in-out" href="#contact">Contact</a>
       </div>
-      <div class=" bar hidden font-bold text-[22px] opacity-80" @click="menu()">
+      <div class=" bar hidden font-bold text-[22px] opacity-80 hover:text-[#147EFB] duration-200 ease-in-out" @click="menu()">
         <i class="fa-solid fa-bars"></i>
       </div>
     </nav>
