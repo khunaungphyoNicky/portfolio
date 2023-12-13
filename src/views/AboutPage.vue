@@ -1,7 +1,7 @@
 <template>
     <div class="py-[150px] flex items-center justify-center bg-white about-page">
         <div class="max-w-[950px] flex gap-14 about w-full">
-            <div class="about-image w-[410px] h-[350px] relative">
+            <div class="about-image w-[410px] h-[363px] relative">
                 <img class=" rounded-xl w-full h-full"
                     src="https://www.stefantopalovic.com/static/media/about-img.62b47e7f183d4b4e9feb.webp" alt="">
                 <div class=" work absolute bottom-[-25px] right-[-25px] p-16 rounded-full bg-white border border-gray-200">
