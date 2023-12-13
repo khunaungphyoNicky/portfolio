@@ -11,11 +11,11 @@
             </div>
             <div class="about-details w-[490px] min-h-[356px]">
                 <h1 class=" text-[#147EFB] font-bold text-lg">ABOUT ME</h1>
-                <h1 class=" font-bold text-[27px] mt-2 opacity-80">A dedicated Front-end Developer
-                    based in Belgrade, Serbia 📍</h1>
-                <p class=" font-normal text-[17px] opacity-70 mt-4 about-content">As a Junior Front-End Developer, I possess an impressive
+                <h1 class=" font-bold text-[27px] mt-2 opacity-80">A dedicated Full Stack Developer
+                    based in Taunggyi, Myanmar 📍</h1>
+                <p class=" font-normal text-[17px] opacity-70 mt-4 about-content">As a Junior Full Stack Developer, I possess an impressive
                     arsenal of skills in HTML, CSS, JavaScript,
-                    React, Tailwind, and SCSS. I excel in designing and maintaining responsive websites that offer a smooth
+                    Vue, Laravel, and Tailwind. I excel in developing and maintaining responsive websites that offer a smooth
                     user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and
                     optimized code and utilizing cutting-edge development tools and techniques. I am also a team player who
                     thrives in collaborating with cross-functional teams to produce outstanding web applications.</p>
