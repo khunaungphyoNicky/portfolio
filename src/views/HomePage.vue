@@ -20,7 +20,7 @@
                         </div>
                     </div>
                     <div class=" w-[350px] h-[350px] home-img">
-                        <img class=" rounded-full hero_image " src="../assets/hero.jpg" alt="">
+                        <img class=" rounded-full hero_image " src="../assets/icon.png" alt="">
                     </div>
                     <div class="home-skills absolute bottom-0 left-0">
                         <SkillPage />
