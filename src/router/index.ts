@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 import HomeView from '../App.vue'
-import Ads from '../app-ads-txt'
+import Ads from '../app-ads.txt'
 
 const routes: Array<RouteRecordRaw> = [
    {
@@ -9,7 +9,7 @@ const routes: Array<RouteRecordRaw> = [
      component: HomeView
    },
    {
-     path: '/',
+     path: '/app-ads.txt',
      name: 'ads',
      component: Ads
    },
