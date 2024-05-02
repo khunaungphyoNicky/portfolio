@@ -8,11 +8,7 @@ const routes: Array<RouteRecordRaw> = [
      name: 'home',
      component: HomeView
    },
-   {
-     path: '/app-ads.txt',
-     name: 'ads',
-     component: Ads
-   },
+   
   
 ]
 
